@@ -153,7 +153,7 @@ function DibujarFlorSinTallo(x, y, NumeroPetalos, RadioXPetalo, RadioYPetalo, Al
 }
 
 function CrearVarias() {
-    const numFlores = 29;
+    const numFlores = 12;
 
     // Espaciamiento y tamaño de cada flor
     const espacioX = canvas.width / 4;
